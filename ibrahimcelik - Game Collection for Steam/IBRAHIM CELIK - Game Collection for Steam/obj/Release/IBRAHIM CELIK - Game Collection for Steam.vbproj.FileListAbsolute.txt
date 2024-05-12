@@ -1,0 +1,102 @@
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\IBRAHIM CELIK - Game Collection for Steam.exe.config
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.Runtime.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.Runtime.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.Runtime.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\chrome_100_percent.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\chrome_200_percent.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\chrome_elf.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\d3dcompiler_47.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\icudtl.dat
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\libcef.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\libEGL.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\libGLESv2.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\resources.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\snapshot_blob.bin
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\v8_context_snapshot.bin
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\vk_swiftshader.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\vk_swiftshader_icd.json
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\vulkan-1.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\af.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\am.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ar.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\bg.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\bn.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ca.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\cs.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\da.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\de.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\el.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\en-GB.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\en-US.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\es-419.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\es.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\et.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\fa.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\fi.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\fil.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\fr.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\gu.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\he.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\hi.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\hr.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\hu.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\id.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\it.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ja.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\kn.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ko.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\lt.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\lv.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ml.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\mr.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ms.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\nb.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\nl.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\pl.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\pt-BR.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\pt-PT.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ro.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ru.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\sk.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\sl.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\sr.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\sv.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\sw.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ta.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\te.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\th.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\tr.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\uk.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\ur.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\vi.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\zh-CN.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\locales\zh-TW.pak
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.BrowserSubprocess.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.BrowserSubprocess.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\IBRAHIM CELIK - Game Collection for Steam.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\IBRAHIM CELIK - Game Collection for Steam.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\IBRAHIM CELIK - Game Collection for Steam.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.OffScreen.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.WinForms.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\Guna.UI2.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.Core.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.OffScreen.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.OffScreen.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.WinForms.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\bin\Release\CefSharp.WinForms.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.vbproj.AssemblyReference.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM_CELIK___Game_Collection_for_Steam.ibrahimcelik.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM_CELIK___Game_Collection_for_Steam.Resources.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.vbproj.GenerateResource.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.vbproj.CoreCompileInputs.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.vbproj.CopyComplete
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\IBRAHIM CELIK - Game Collection for Steam\obj\Release\IBRAHIM CELIK - Game Collection for Steam.pdb

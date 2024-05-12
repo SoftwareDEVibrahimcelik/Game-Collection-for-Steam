@@ -1,0 +1,12 @@
+Download packages from nuget ! ;
+
+Cefsharp.Winforms
+Cefsharp.OffScreen
+
+
+
+;
+CefSharp.Common.123.0.60
+CefSharp.OffScreen.123.0.60
+CefSharp.WinForms.123.0.60
+chromiumembeddedframework.runtime.win-x86.123.0.6
